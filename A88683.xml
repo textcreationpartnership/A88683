@@ -1,0 +1,513 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A small mite, in memory of the late deceased (yet still living, and never to be forgotten) Mr. William Erbery. Being 1. An acrostick on the letters of his name. 2. An elegie on his death, or worthy living fame. Whereunto are added two new songs: the one being some brief touches on the 12 chapter of the Revelation, more fully to be enlarged in the experimental Christian. The other, touching the doing away of sin through the Lord Christ in our souls, and the dostroying [sic] all our mental enemies: with other remarkable passages. Some are dead that seem alive: but Erbery's worth shall still survive.</title>
+            <author>J. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88683</idno>
+            <idno type="STC">Wing L39</idno>
+            <idno type="STC">Thomason E1472_2</idno>
+            <idno type="STC">ESTC R208712</idno>
+            <idno type="EEBO-CITATION">99867640</idno>
+            <idno type="PROQUEST">99867640</idno>
+            <idno type="VID">169996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169996)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 188:E1472[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A small mite, in memory of the late deceased (yet still living, and never to be forgotten) Mr. William Erbery. Being 1. An acrostick on the letters of his name. 2. An elegie on his death, or worthy living fame. Whereunto are added two new songs: the one being some brief touches on the 12 chapter of the Revelation, more fully to be enlarged in the experimental Christian. The other, touching the doing away of sin through the Lord Christ in our souls, and the dostroying [sic] all our mental enemies: with other remarkable passages. Some are dead that seem alive: but Erbery's worth shall still survive.</title>
+                  <author>J. L.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>April 20. 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Mostly in verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Erbery, William, 1604-1654 --  Early works to 1800.</term>
+               <term>Elegaic poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169996:1" rendition="simple:additions"/>
+            <p>A ſmall Mite, In Memory of the late deceaſed (yet ſtill living, and never to be forgotten) Mr. WILLIAM ERBERY.</p>
+            <p>Being
+<list>
+                  <item>1. An Acroſtick on the letters of his name.</item>
+                  <item>2. An Elegie on his death, or worthy living fame.</item>
+               </list>
+            </p>
+            <p>Whereunto are added Two New SONGS:</p>
+            <p>The one being ſome brief Touches on the 12 Chapter of the <hi>Revelation,</hi> more fully to be enlarged in the experimental Chriſtian.</p>
+            <p>The other, touching the doing away of Sin through the Lord Chriſt in our ſouls, and the doſtroying all our mental enemies: with other remarkable Paſſages.</p>
+            <q>
+               <l>Some are dead that ſeem alive:</l>
+               <l>But <hi>Erbery</hi>'s worth ſhall ſtill ſurvive.</l>
+            </q>
+            <p>
+               <hi>April</hi> 20, 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169996:2"/>
+            <pb n="1" facs="tcp:169996:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>'<seg rend="decorInit">T</seg>Is above my dull capacity to ſet forth the true worth of the heroick <hi>Erbery,</hi> in theſe few rude &amp; unpoliſht lines: but I hope ſome able Pen will mend my deficiency herein, in giving the true Character of that holy harmleſs man; for which not onely the world hated him, but alſo many Church-ones: but 'tis to be hoped they did it ignorantly.</p>
+            <p>I know <hi>Momus</hi> and <hi>Zoilus</hi> will have a fling at theſe few lines, (although they be but as grave-clothes) that I have put on him; (he deſerving a more ſublime garb) but all that I ſhall ſay (as to that) is, That 'twere well if we that are ready to judge and cenſure others, would no longer do it in words but in actions of righteouſneſs: <hi>viz.</hi> if others be proud, tyrannical, envious, bitter, deceitful, let us be meek, humble, loving, faithful, as Chriſt was: This is that <hi>againſt which there is no law;</hi> &amp; this is the kingdom and life of Chriſt, which ſhall in time abide when all that is a lye ſhall vaniſh away.</p>
+            <closer>
+               <signed>
+                  <hi>I am thine to power,</hi> J. L.</signed>
+               <dateline>
+                  <date>April <hi>25. 1654.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="acrostic_poem">
+            <pb n="2" facs="tcp:169996:3"/>
+            <head>An Acroſtick on the letters of the name of the incomparably loving Mr. <hi>William Erbery.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>W</hi> hat if thy fleſh hath loſt its form?</l>
+               <l>
+                  <hi>I</hi> n us thou living art:</l>
+               <l>
+                  <hi>L</hi> ight that's of God in thee was born,</l>
+               <l>
+                  <hi>L</hi> ove centred in thy heart.</l>
+               <l>
+                  <hi>I</hi> n and through ſtorms thou haſt been led:</l>
+               <l>
+                  <hi>A</hi> ll clouds before thee fell;</l>
+               <l>
+                  <hi>M</hi> an true, that's one with God the Head,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>E</hi> ven in thy life will dwell.</l>
+               <l>
+                  <hi>R</hi> ight Reſurrection we do own;</l>
+               <l>
+                  <hi>B</hi> elieve's, you need not fear't:</l>
+               <l>
+                  <hi>E</hi> ternally it ſhall be known;</l>
+               <l>
+                  <hi>R</hi> iſen <hi>Erbery</hi>'s light will clear't.</l>
+               <l>
+                  <hi>Y</hi> et many real hearts could weep,</l>
+               <l>'Cauſe thus thy fleſh doth ſeem to ſleep.</l>
+               <pb n="3" facs="tcp:169996:3"/>
+               <l>But if the Envious to rejoyce,</l>
+               <l>Thinking thy life hath loſt its voice,</l>
+               <l>They'll be deceiv'd: for it will live,</l>
+               <l>Their Serpent mortal wounds to give.</l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <head>An ELEGIE On the late deceaſed Mr. WILLIAM ERBEAY, Who is not dead, but ſleepeth.</head>
+            <l>IF ever God in man appear'd,</l>
+            <l>He did in <hi>Erbery:</hi>
+            </l>
+            <l>If ever light of late was clear'd,</l>
+            <l>'Twas through his ſingle eye.</l>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:169996:4"/>
+            <l>He had the Radix of true Love</l>
+            <l>That in this Age was found:</l>
+            <l>His heart divinely was above;</l>
+            <l>His judgement moſt profound.</l>
+            <l>He was the Dove for Innocence,</l>
+            <l>The Lion for true Courage;</l>
+            <l>The Lamb he was, for Paſsiveneſs,</l>
+            <l>Moſt humble in his carriage.</l>
+            <l>O how did he baſe Earth contemn,</l>
+            <l>With all its Vanities!</l>
+            <l>A ſervant he was to all men,</l>
+            <l>Yet ſcorned to take Tythes,</l>
+            <l>But he is dead!—Sure't cannot be;</l>
+            <l>'Tis but the earthly matter:</l>
+            <l>His life is to Eternitie,</l>
+            <l>Though never under water.</l>
+            <l>Oh how did Forms before him fall,</l>
+            <l>That had not Chriſtian power!</l>
+            <l>They're brought into confuſion all,</l>
+            <l>Much like the Babel tower.</l>
+            <l>He was that noble true Divine,</l>
+            <l>Though ſometimes in dark clouds:</l>
+            <l>God oft hath ſo appear'd in time,</l>
+            <l>To ſpoil our Idol-ſhrouds.</l>
+            <pb n="5" facs="tcp:169996:4"/>
+            <l>I want words to expreſs that worth</l>
+            <l>That did in him remain:</l>
+            <l>A man (moſt true) in Love brought forth,</l>
+            <l>At Greatneſs did not aim.</l>
+            <l>I think I ſaid he was not dead;</l>
+            <l>I wiſh he be not ſo:</l>
+            <l>His life can ſcarce be parallelled</l>
+            <l>In any that I know.</l>
+            <l>But why do Formalists triumph,</l>
+            <l>And Churches ſeem to ſmile,</l>
+            <l>As if his light were quite defunct?</l>
+            <l>God is not ſo ſervile,</l>
+            <l>As to be ty'd unto his form,</l>
+            <l>And onely there to be;</l>
+            <l>His Principles in thouſands born,</l>
+            <l>Would 'twere; his Innocencie<note place="margin">
+                  <hi>Viz.</hi> that <hi>Innocence</hi> that ap<g ref="char:EOLhyphen"/>pear'd in M. <hi>Erbery</hi> which is rarely found in any.</note>:</l>
+            <l>Then would ſin, hell, and devils all,</l>
+            <l>Away before it flie;</l>
+            <l>'Twould prove moſt fatal to them all,</l>
+            <l>And ſlay the evil eye.</l>
+            <l>How firmly did he ſtill abide</l>
+            <l>All perſecuting ſtorms!</l>
+            <l>How could he in his boſome hide</l>
+            <l>(Through Love that Envie ſcorns)</l>
+            <pb n="6" facs="tcp:169996:5"/>
+            <l>His greateſt enemies? He could bleſs,</l>
+            <l>And Love for Malice give.</l>
+            <l>The Son of God, all may confeſs,</l>
+            <l>Did truely in him live.</l>
+         </div>
+         <div type="song">
+            <pb n="7" facs="tcp:169996:5"/>
+            <head>Some brief Touches on the twelfth Chapter of the <hi>Revelation;</hi> although not all that might be.</head>
+            <opener>The Tune, <hi>When the — enjoys his,</hi> &amp;c.</opener>
+            <lg>
+               <l>IN heaven a wonder did appear;</l>
+               <l>A woman clothed with the Sun:</l>
+               <l>On <hi>Luna</hi>'s glory ſhe did tread;</l>
+               <l>Her head with ſtars was crown'd upon.</l>
+               <l>The woman was with child,</l>
+               <l>Groaning in pain turmoil'd,</l>
+               <l>Expecting a deliverance:</l>
+               <l>For ſhe was ſore oppreſt,</l>
+               <l>But in th'end was bleſt:</l>
+               <l>For ſhe bore a Son; 'twas no miſchance.</l>
+            </lg>
+            <lg>
+               <l>The woman which in pangs appear'd,</l>
+               <l>Might be mans weakneſs which we fear'd:</l>
+               <l>The Sun and Moon, with Stars her crown,</l>
+               <l>Might be all Forms which we did own:</l>
+               <pb n="8" facs="tcp:169996:6"/>
+               <l>The Childe ſhe brings to birth</l>
+               <l>Is him that rules the earth,</l>
+               <l>And doth our potent enemies ſlay:</l>
+               <l>Yea, Sin, Hell, Devil,</l>
+               <l>With all that's call'd Evil,</l>
+               <l>When the Man-child's born ſhall quite de<g ref="char:EOLhyphen"/>cay.</l>
+            </lg>
+            <lg>
+               <l>Another wonder I'll declare;</l>
+               <l>A Dragon great, of <hi>Edom</hi>'s dy,</l>
+               <l>In heaven alſo he did appear,</l>
+               <l>With heads of ſtrange monſtroſity:</l>
+               <l>His tayl drew the Stars,</l>
+               <l>And cauſed many Wars:</l>
+               <l>Before the woman he did ſtand,</l>
+               <l>The Childe to oppreſs,</l>
+               <l>And the woman to diſtreſs:</l>
+               <l>But God did ſave them from his hand.</l>
+            </lg>
+            <lg>
+               <l>The greateſt Dragons tyranny,</l>
+               <l>Which cometh from the evil eye:</l>
+               <l>His Hydra's heads with crowns and horns,</l>
+               <l>May be the cheats in fineſt Forms;</l>
+               <l>In which we mounted hie,</l>
+               <l>And unto God did crie,</l>
+               <l>'Cauſe that our rotten hearts did hide.</l>
+               <l>The Dragon ſeem'd a Saint,</l>
+               <l>And did the outſide paint:</l>
+               <l>Thus Serpent-like he was our guide.</l>
+            </lg>
+            <pb n="9" facs="tcp:169996:6"/>
+            <lg>
+               <l>For he can a time-ſerver be,</l>
+               <l>So long as Honour beareth ſway:</l>
+               <l>Like a Cameleon change will he,</l>
+               <l>As long as Thine and Mine we ſay.<note n="*" place="margin">
+                     <hi>Viz.</hi> That which is tru<g ref="char:EOLhyphen"/>ly Gods, and we call ours, but is not.</note>
+               </l>
+               <l>He can turn up his eyes,</l>
+               <l>And yet for blood he cryes:</l>
+               <l>His colour you have heard is red:</l>
+               <l>And if he weep and pray,</l>
+               <l>His end is to deſtroy</l>
+               <l>(Like the Crocodile) the Childe our Head.</l>
+            </lg>
+            <lg>
+               <l>In heav'n alſo a Combat's fought</l>
+               <l>'Twixt <hi>Mich'el</hi> and the evil one;</l>
+               <l>Who hath put the devil to the rout,</l>
+               <l>And now he's out of heaven thrown.</l>
+               <l>Now we joy and ſing</l>
+               <l>Unto the Lord our King,</l>
+               <l>Which the Accuſer hath deſtroy'd.</l>
+               <l>Now Conſcience is free</l>
+               <l>From the good and evil tree:<note place="margin">When Saints are in heaven.</note>
+               </l>
+               <l>There's none in heav'n that are afraid.</l>
+            </lg>
+            <lg>
+               <l>Wherefore you that in heav'n be,</l>
+               <l>A glorious life you have attain'd;</l>
+               <l>Now from the devil you are free,</l>
+               <l>And now in God you reſt have gain'd.</l>
+               <l>But thoſe that live on earth</l>
+               <l>Shall feel the Dragons wrath:</l>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:169996:7"/>
+               <l>Their weakneſs he would live upon,</l>
+               <l>But that their life's in Chriſt their Head.</l>
+               <l>They may well meaning be,</l>
+               <l>And yet they clearly ſee</l>
+               <l>That Chriſt to God doth none accuſe.</l>
+               <l>They may not fully know</l>
+               <l>'Tis <hi>Moſes</hi> that doth ſo *,<note place="margin">
+                     <hi>Joh.</hi> 5.45.</note>
+               </l>
+               <l>Since man doth good and evil chuſe.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>A ſpiritual Song touching the doing away of SIN through Chriſt, and the bringing in of Love, and freeing us from our Enemies.</head>
+            <opener>Tune, <hi>S— a Charge.</hi>
+            </opener>
+            <lg n="1">
+               <head>1.</head>
+               <l>TO him that's all, yet one,</l>
+               <l>Sing with joy, ſing with joy;</l>
+               <l>Our God he is alone:</l>
+               <l>Sing with joy.</l>
+               <l>'Tis he blots out all ſin;</l>
+               <l>In him we joy and ſing,</l>
+               <l>'Cauſe we are one with him:</l>
+               <l>'Tis tidings glad we bring.</l>
+               <l>Sing with joy, ſing with joy.</l>
+            </lg>
+            <pb n="11" facs="tcp:169996:7"/>
+            <lg n="2">
+               <head>2.</head>
+               <l>Our hearts are void of care:</l>
+               <l>Sing with joy, ſing with joy.</l>
+               <l>Our mindes no ill do fear:</l>
+               <l>Sing with joy.</l>
+               <l>No bug bears us affright,</l>
+               <l>Or evil's in our ſight<note n="*" place="margin">
+                     <hi>Viz.</hi> In the ſight of that which is born of God, ſo as to harm it.</note>:</l>
+               <l>The devil's put to flight;</l>
+               <l>We walk in the true light.</l>
+               <l>Sing with joy, ſing with joy.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Thoſe that are blinde ſhall ſee,</l>
+               <l>Sing with joy, ſing with joy,</l>
+               <l>Gods glorious unity.</l>
+               <l>Sing with joy.</l>
+               <l>The deaf his truth ſhall hear,</l>
+               <l>And freed ſhall be from care,</l>
+               <l>By love that caſts out fear:</l>
+               <l>Then they with us ſhall ſhare.</l>
+               <l>Sing with joy, ſing with joy.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>
+                  <hi>Sinai</hi> doth paſs away:</l>
+               <l>Sing with joy, ſing with joy:</l>
+               <l>
+                  <hi>Sion</hi>'s will be the day:</l>
+               <l>Sing with joy.</l>
+               <l>For Faith and Hope ſhall ceaſe</l>
+               <l>Before you are at peace:</l>
+               <l>'Tis Love muſt give you eaſe,</l>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:169996:8"/>
+               <l>For in old <hi>Adam</hi> he reſides:</l>
+               <l>But the womans Child's in heaven,</l>
+               <l>And hath all power given,</l>
+               <l>To deſtroy the devil and earth beſides.</l>
+            </lg>
+            <lg>
+               <l>But while the Dragon lives in earth,</l>
+               <l>He perſecutes the woman milde:</l>
+               <l>But ſhe with Eagles wings doth flee</l>
+               <l>Above his envie through her Childe:</l>
+               <l>In the wilderneſs ſhe ſtood,</l>
+               <l>Until the Dragons flood</l>
+               <l>Which would have drown'd her, was de<g ref="char:EOLhyphen"/>cay'd:</l>
+               <l>And of the earth had help,</l>
+               <l>Though the devil in it dwelt.</l>
+               <l>When the woman's ſtrong, the devil's afraid.</l>
+            </lg>
+            <lg>
+               <l>And yet for war he doth appear</l>
+               <l>Againſt the woman and her ſeed:</l>
+               <l>He calls Gods ſtrangeneſs madneſs vain;</l>
+               <l>His fooliſh things he down would tread.</l>
+               <l>He crieth much for Forms,</l>
+               <l>But God in many ſcorns,</l>
+               <l>And calls it horrible Blaſphemy:</l>
+               <l>He'll tell you man ſhall riſe</l>
+               <l>When Chriſt comes from the skies;</l>
+               <l>But Emmanuel he down would cry.</l>
+            </lg>
+            <lg>
+               <l>The Dragon further doth go on</l>
+               <l>To flay the remnant of her ſeed:</l>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:169996:8"/>
+               <l>When Forms ſhall quite deceaſe.</l>
+               <l>Sing with joy, ſing with joy.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Churches to Love muſt come:</l>
+               <l>Sing with joy, ſing with joy:</l>
+               <l>Which thinketh hurt to none.</l>
+               <l>Sing with joy.</l>
+               <l>Or elſe they'll hardly ſee</l>
+               <l>The glorious liberty</l>
+               <l>Of Gods ſons that are free;</l>
+               <l>But in dark hell will be.</l>
+               <l>Sing with joy, ſing with joy.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>What though black ſtorms appear?</l>
+               <l>Sing with joy, ſing with joy.</l>
+               <l>The great Whore is in fear.</l>
+               <l>Sing with joy:</l>
+               <l>Her fleſh is now on fire;</l>
+               <l>She'll hardly mount much higher,</l>
+               <l>Though ſhe doth ſtill aſpire:</l>
+               <l>Her Beaſt begins to tire.</l>
+               <l>Sing with joy, ſing with joy.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>When God the Whore hath burn'd:</l>
+               <l>Sing with joy, ſing with joy:</l>
+               <l>And all her baſtards ſpurn'd:</l>
+               <l>Sing with joy:</l>
+               <l>And ſpoil'd her golden Cup,</l>
+               <pb n="14" facs="tcp:169996:9"/>
+               <l>Of which ſhe made us ſup:</l>
+               <l>Then we ſhall ſee, we hope,</l>
+               <l>Her Formal ſhop ſhut up.</l>
+               <l>Sing with joy, ſing with joy.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Then man the Lord ſhall finde,</l>
+               <l>Sing with joy, ſing with joy:</l>
+               <l>And know his all-great minde.</l>
+               <l>Sing with joy.</l>
+               <l>Then we ſhall clearly ſee</l>
+               <l>Of God the myſtery</l>
+               <l>Of Trine in Unity,</l>
+               <l>And how he All will be.</l>
+               <l>Sing with joy, ſing with joy.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
